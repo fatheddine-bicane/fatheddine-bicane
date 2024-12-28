@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">I live in Marrakech, Morocco. I'm a proud CS student at 1337 School, diving deep into the world of programming and tech 👨🏻‍💻. When I'm not crushing bugs or building dreams, I can be found playing football ⚽️, tennis 🎾, or hitting the gym to lift some weights 🏋.</h3>
+<h3 align="left">I'm from Marrakech, Morocco. I'm a proud CS student at 1337 School, diving deep into the world of programming and tech 👨🏻‍💻. When I'm not crushing bugs or building dreams, I can be found playing football ⚽️, tennis 🎾, or hitting the gym to lift some weights 🏋.</h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fatheddine-bicane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="149" alt="stats graph"  />
